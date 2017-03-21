@@ -1,0 +1,44 @@
+<style type="text/css">
+#Languagea:link {
+    text-decoration: none;
+}
+
+#Language a:visited {
+    text-decoration: none;
+}
+
+#Language a:hover {
+    text-decoration: underline;
+}
+
+#Language a:active {
+    text-decoration: underline;
+}
+#Langugae {
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+}
+	#Language ul{
+    
+    	list-style-type:none;
+        font-family: 'Montserrat', sans-serif;
+    	height:3px;
+   	 	display: inline-block;
+    	margin-top: 3px;
+    
+    }
+    #Language li{
+
+        text-align: right;
+    	display: table-cell;
+    }
+    .bs-example{
+        text-shadow: 2px 2px 5px red;
+        font-family: 'Montserrat', sans-serif;
+    	margin-top: 10px;
+    }
+    .nav navbar-nav{
+        text-shadow: 2px 2px 5px grey;
+    }
+
+</style>
